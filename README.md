@@ -4,6 +4,11 @@ This is a simple Node.js application for managing a list of contacts.
 It uses MongoDB database to store the contacts data and provides RESTful API endpoints to perform CRUD operations.
 Сontains user authentication.
 
+## This project is deployed on
+
+```bash
+https://contacts-8fd9.onrender.com/
+```
 ## Prerequisites
 
 Before running the application, you need to have the following installed on your system:
